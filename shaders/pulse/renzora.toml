@@ -1,8 +1,8 @@
 name = "Pulse"
-version = "1.0.0"
+version = "2.0.0"
 description = "A pulsing vignette: the edges of the frame darken and brighten on their own, for heartbeats, low health and anything that should feel like strain. A post-process effect: drop pulse.wesl on a Post Process component."
 category = "shaders"
-marketplace_id = "pulse-effect"
+marketplace_id = "pulse"
 tags = ["post-processing", "shader", "vignette", "animated"]
 price_credits = 0
 thumbnail = "thumbnail.webp"

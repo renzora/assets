@@ -1,8 +1,8 @@
 name = "Grayscale"
-version = "1.0.0"
+version = "2.0.0"
 description = "Drains colour from the frame. A post-process effect: drop grayscale.wesl on a Post Process component."
 category = "shaders"
-marketplace_id = "grayscale-effect"
+marketplace_id = "grayscale"
 tags = ["post-processing", "shader", "colour", "monochrome"]
 price_credits = 0
 thumbnail = "thumbnail.webp"

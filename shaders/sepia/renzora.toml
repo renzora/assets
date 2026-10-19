@@ -1,8 +1,8 @@
 name = "Sepia"
-version = "1.0.0"
+version = "2.0.0"
 description = "Sepia tone mapping. A post-process effect: drop sepia.wesl on a Post Process component."
 category = "shaders"
-marketplace_id = "sepia-effect"
+marketplace_id = "sepia"
 tags = ["post-processing", "shader", "colour", "sepia", "retro"]
 price_credits = 0
 thumbnail = "thumbnail.webp"

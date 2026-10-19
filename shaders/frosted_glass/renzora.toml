@@ -1,8 +1,8 @@
 name = "Frosted Glass"
-version = "1.0.0"
+version = "2.0.0"
 description = "Frosted glass: the picture is scattered by a noise field, as if seen through textured glass. A post-process effect: drop frosted_glass.wesl on a Post Process component."
 category = "shaders"
-marketplace_id = "frosted-glass-effect"
+marketplace_id = "frosted_glass"
 tags = ["post-processing", "shader", "blur", "glass"]
 price_credits = 0
 thumbnail = "thumbnail.webp"

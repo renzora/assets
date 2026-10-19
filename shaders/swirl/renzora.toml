@@ -1,8 +1,8 @@
 name = "Swirl"
-version = "1.0.0"
+version = "2.0.0"
 description = "Twists the frame around its centre, falling off to nothing outside radius. A post-process effect: drop swirl.wesl on a Post Process component."
 category = "shaders"
-marketplace_id = "swirl-effect"
+marketplace_id = "swirl"
 tags = ["post-processing", "shader", "distortion", "swirl"]
 price_credits = 0
 thumbnail = "thumbnail.webp"
